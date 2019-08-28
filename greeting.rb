@@ -1,3 +1,3 @@
-def greeting
-  puts "Hello World"
+def greeting_a_person(name)
+  puts "Hello #{name}"
 end
